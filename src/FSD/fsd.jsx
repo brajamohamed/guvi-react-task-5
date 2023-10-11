@@ -3,7 +3,7 @@ const FSD = () => {
     <div className="container">
       <div className="row">
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -24,12 +24,16 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -50,12 +54,16 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -77,12 +85,16 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -104,12 +116,16 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -130,13 +146,17 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}
 
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -157,12 +177,16 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -183,12 +207,16 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -209,12 +237,16 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -235,12 +267,16 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -261,12 +297,16 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -287,13 +327,17 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}
 
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -314,12 +358,16 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -340,12 +388,16 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -366,12 +418,16 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -392,12 +448,16 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -418,12 +478,16 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -444,13 +508,17 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}
 
         {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6">
+        <div className="col-xl-4 col-lg-6 my-3">
           <div className="card">
             <div className="card-img-top">
               <img
@@ -471,7 +539,11 @@ const FSD = () => {
                 READ MORE{" "}
               </a>
             </div>
-            <div className="card-footer"></div>
+            <div className="card-footer">
+              <small className="text-muted">
+                11 October 2023 * No Comments{" "}
+              </small>
+            </div>
           </div>
         </div>
         {/* Card Ends Here */}

@@ -17,7 +17,7 @@ function App() {
         <Hero />
         <Navbar2 />
         <Routes>
-          <Route path="/all" element={<All />} />
+          <Route path="/" element={<All />} />
           <Route path="/fsd" element={<FSD />} />
           <Route path="/ds" element={<DS />} />
           <Route path="/cs" element={<CS />} />
