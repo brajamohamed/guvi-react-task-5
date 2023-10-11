@@ -37,65 +37,6 @@ const CS = () => {
           <div className="card">
             <div className="card-img-top">
               <img
-                src="https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1200x675.png"
-                alt="top2"
-                className="w-100"
-              />
-            </div>
-            <div className="card-body">
-              <h5 className="card-title">
-                Cybersecurity Vs Ethical Hacking: Top 10 Differences
-              </h5>
-              <p className="card-text">
-                In a world filled with information, knowing how to understand
-                and use data is super
-              </p>
-              <a href="#" className="text-success">
-                READ MORE{" "}
-              </a>
-            </div>
-            <div className="card-footer">
-              <small className="text-muted">
-                11 October 2023 * No Comments{" "}
-              </small>
-            </div>
-          </div>
-        </div>
-        {/* Card Ends Here */}
-        {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6 my-3">
-          <div className="card">
-            <div className="card-img-top">
-              <img
-                src="https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif"
-                alt="top3"
-                className="w-100"
-              />
-            </div>
-            <div className="card-body">
-              <h5 className="card-title">
-                What is Cybersecurity? Importance and its uses & the growing
-                challenges in 2023!
-              </h5>
-              <p className="card-text"></p>As the demand for data and the people
-              that can conquer it, i.e. Data Scientists
-              <a href="#" className="text-success">
-                READ MORE{" "}
-              </a>
-            </div>
-            <div className="card-footer">
-              <small className="text-muted">
-                11 October 2023 * No Comments{" "}
-              </small>
-            </div>
-          </div>
-        </div>
-        {/* Card Ends Here */}
-        {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6 my-3">
-          <div className="card">
-            <div className="card-img-top">
-              <img
                 src="https://www.guvi.in/blog/wp-content/uploads/2023/07/best-way-to-learn-full-stack-development-1200x628.webp"
                 alt="top5"
                 className="w-100"

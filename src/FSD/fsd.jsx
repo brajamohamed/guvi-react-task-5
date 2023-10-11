@@ -37,67 +37,6 @@ const FSD = () => {
           <div className="card">
             <div className="card-img-top">
               <img
-                src="https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023-1200x628.png"
-                alt="top5"
-                className="w-100"
-              />
-            </div>
-            <div className="card-body">
-              <h5 className="card-title">
-                7 Best Full-Stack Development Online Courses [2023]
-              </h5>
-              <p className="card-text">
-                Today’s world is rapidly evolving into a technological
-                landscape. Owing to these dynamics, the demand
-              </p>
-              <a href="#" className="text-success">
-                READ MORE{" "}
-              </a>
-            </div>
-            <div className="card-footer">
-              <small className="text-muted">
-                11 October 2023 * No Comments{" "}
-              </small>
-            </div>
-          </div>
-        </div>
-        {/* Card Ends Here */}
-        {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6 my-3">
-          <div className="card">
-            <div className="card-img-top">
-              <img
-                src="https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Ultimate-Guide-to-Real-World-Full-Stack-Development-Applications-1200x628.png"
-                alt="top5"
-                className="w-100"
-              />
-            </div>
-            <div className="card-body">
-              <h5 className="card-title">
-                The Top 10 Tools Every Full-Stack Developer Should Master in
-                2023
-              </h5>
-              <p className="card-text">
-                ‍As a full-stack developer, having the right set of tools is
-                crucial for your success.
-              </p>
-              <a href="#" className="text-success">
-                READ MORE{" "}
-              </a>
-            </div>
-            <div className="card-footer">
-              <small className="text-muted">
-                11 October 2023 * No Comments{" "}
-              </small>
-            </div>
-          </div>
-        </div>
-        {/* Card Ends Here */}
-        {/* Card Starts Here */}
-        <div className="col-xl-4 col-lg-6 my-3">
-          <div className="card">
-            <div className="card-img-top">
-              <img
                 src="https://www.guvi.in/blog/wp-content/uploads/2023/07/best-way-to-learn-full-stack-development-1200x628.webp"
                 alt="top5"
                 className="w-100"
