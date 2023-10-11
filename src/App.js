@@ -1,23 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import Navbar from "./Navbar/navbar";
+import Hero from "./Hero/hero";
+import Navbar2 from "./Navbar2/navbar2";
+import All from "./All/all";
+import FSD from "./FSD/fsd";
+import DS from "./DS/ds";
+import CS from "./CyberSecurity/cs";
+import Careers from "./Career/career";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <BrowserRouter>
+        <Navbar />
+        <Hero />
+        <Navbar2 />
+        <Routes>
+          <Route path="/all" element={<All />} />
+          <Route path="/fsd" element={<FSD />} />
+          <Route path="/ds" element={<DS />} />
+          <Route path="/cs" element={<CS />} />
+          <Route path="/careers" element={<Careers />} />
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }

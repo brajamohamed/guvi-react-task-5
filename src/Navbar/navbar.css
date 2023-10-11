@@ -1,0 +1,6 @@
+.dropdown-hover:hover .dropdown-menu {
+  display: block;
+}
+.nav-item:hover {
+  color: rgb(12, 185, 75) !important;
+}

@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+.nav-item:hover {
+  border-bottom: 5px solid rgb(12, 185, 75);
+  transition: border-bottom 100ms ease-in-out;
+  /* color: rgb(12, 185, 75); */
+}
+.nav-item:hover .nav-link {
+  color: rgb(12, 185, 75);
+}
